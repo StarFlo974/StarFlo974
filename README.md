@@ -2,7 +2,7 @@
 #### 👋 Salut ! Je suis Starnort Florian, un développeur passionné avec un intérêt particulier pour le web. Avec 3 années d'expérience dans le développement de logiciels, je suis constamment à la recherche de nouvelles opportunités pour apprendre, innover et collaborer sur des projets passionnants.
 
 # #🚀 Compétences
-- Langages de programmation: Python, Java/JavaEE, C#/C/C++, PhP, JavaScript(NodeJS, TypeScript), PowerShell/Bash.
+- Langages de programmation: Python, Java/JavaEE, C#/C/C++, PhP, JavaScript, PowerShell/Bash.
 - Frameworks et bibliothèques: Symfony, Unittest, NodeJS, TypeScript, Bootstrap, React.
 - Outils de développement: Vs Code, GitHub, Docker.
 - Bases de données: Mysql, PostegreSQL.
